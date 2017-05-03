@@ -1,0 +1,18 @@
+It's very easy to use this asset. Follow the following steps:
+
+1 - Create a terrain the way you want. Use textures, details and trees;
+
+2 - (Optional) If you want the fog of war hides models as a unit, you will need to put a tag on it;
+
+3 - To use "Terrain Detail" and place grass or flowers you need to set Detail Resolution: Terrain > Set Resolution...
+and change the value of property Detail Resolution from 1024 to 512;
+
+4 - Drag the Script TerrainFoW on their land;
+
+5 - Set the desired size of the exploration area. (Exploration Size);
+
+6 - (Optional) Use the parameters (Exploration Tag 1, Exploration Tag 2, Tag 3 Exploration, Exploration Tag 4) 
+to complete step 2 and discovering the hidden units;
+
+7 - In your game call the method ExploreArea (position, explorationSize) to explore the terrain or the Paint method 
+(position, exploreSize, color) to paint the ground.

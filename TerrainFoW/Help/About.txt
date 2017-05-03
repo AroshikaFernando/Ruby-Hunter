@@ -1,0 +1,43 @@
+RGB Games 
+
+TerrainFoW v1.0
+
+
+Copyright-----
+-----
+	If you bought this for Unity Asset Store you can use or extend it the way you want. 
+
+It will not be charged any royalty in this case.
+
+-------------------
+
+
+
+Terrain Detail-----
+
+	To use it and place grass or flowers you need to set Detail Resolution: Terrain > Set Resolution... 
+
+and change the value of property Detail Resolution from 1024 to 512
+
+-------------------
+
+
+Samples------------
+
+	To view the samples add the Unity Asset "Terrain Assets"
+
+-------------------
+
+
+
+Video---------
+
+	You can wacth the sample videos:
+	http://www.youtube.com/watch?v=CAEv1USkEyY
+
+-------------------
+
+
+
+
+Contact: rgbgamesdev@gmail.com
